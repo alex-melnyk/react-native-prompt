@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PropTypes from 'proip-types';
+import PropTypes from 'prop-types';
 import {
   Modal,
   Platform,
